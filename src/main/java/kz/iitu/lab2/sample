@@ -1,0 +1,22 @@
+// add driver-license
+{
+    "number": "YourLicenseNumber",
+    "licenseDetails": "Details about the license",
+    "issueDate": "2023-12-31T00:00:00.000Z",
+    "validUntil": "2024-12-31T00:00:00.000Z"
+}
+
+//add translation
+
+
+// add driver-vehicle
+{
+  "brand": "Porche",
+  "model": "911",
+  "int": "2023",
+  "registrationNumber": "777",
+  "user": {
+    "userId": 2
+  }
+}
+
